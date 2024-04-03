@@ -1,16 +1,29 @@
-### Hi there 👋
+## Bem-vindo(a) ao perfil do Renato Lira 😁
 
-<!--
-**Lira-11/Lira-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+   <a href="https://github.com/Lira-11">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lira-11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lira-11&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+<div style="display: inline_block"><br>
+ 
 
-Here are some ideas to get you started:
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
+                
+          
+          
+</div>
+ 
+<br>
+ 
+### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
+  <a href="[https://instagram.com/devemdobro](https://www.instagram.com/renatolira__?igsh=MTM3bmZuZnBxdTVybQ==)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/ricardohdias](https://www.linkedin.com/in/renato-lira-921617286/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
