@@ -21,7 +21,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para mais informaçôes, visite minhas redes!
  
 <div> 
   <a href="[https://instagram.com/devemdobro](https://www.instagram.com/renatolira__?igsh=MTM3bmZuZnBxdTVybQ==)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
