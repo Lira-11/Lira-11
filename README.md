@@ -24,6 +24,7 @@
 ### Para mais informaçôes, visite minhas redes!
  
 <div> 
-  <a href="[https://instagram.com/devemdobro](https://www.instagram.com/renatolira__?igsh=MTM3bmZuZnBxdTVybQ==)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/ricardohdias](https://www.linkedin.com/in/renato-lira-921617286/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/renatolira__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+<a href="https://www.linkedin.com/in/renato-lira-921617286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
